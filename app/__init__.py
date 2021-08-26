@@ -11,3 +11,4 @@ def create_app():
     views.init_app(app)
 
     return app
+    
